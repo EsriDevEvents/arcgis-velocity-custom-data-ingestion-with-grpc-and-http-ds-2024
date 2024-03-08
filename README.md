@@ -1,2 +1,7 @@
-# arcgis-velocity-custom-data-ingestion-with-grpc-and-http-2024
-This is a Java project with gRPC and Http clients that send data to the gRPC and Http Receiver feeds on ArcGIS Velocity
+# ArcGIS Velocity: Custom Data Ingestion with gRPC and HTTP
+Join us to explore gRPC developer resources, required client libraries, data packaging examples, and connecting to a gRPC feed to update features in a web map. In addition, you will learn how ArcGIS Velocity supports real-time data ingestion and egress or actuation through HTTP, which enables you to integrate with third-party APIs. Topics will include how to configure gRPC input, HTTP Receiver inputs, URL parameters, authentication, and custom headers to interact with external APIs and systems through HTTP.
+
+# Presenters:
+Kwasi Asante
+
+Ming Zhao
